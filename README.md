@@ -6,7 +6,7 @@ I'm currently working on social media platform.<br>I'm learning full stack devel
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_14_8) 
 
 
-##Its Me:
+## <h1>Its Me</h1>
 <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
 # 💻 Tech Stack:
