@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on social media platform.<br>I'm learning full stack development.<br>I'm currently watching One Piece.
+I'm currently working on social media platform.<br>I'm currently working on Algo Visualizer.<br>I'm learning full stack development.<br>I'm currently watching One Piece.
 
 
 ## 🌐 Socials:
