@@ -18,7 +18,7 @@ Enjoys exploring new technologies, playing badminton, gaming, and playing the fl
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_14_8) 
-
+[![LinkedIn](https://www.linkedin.com/in/rupendar-kumar-7a9444199/)
 
 ## <h1>Its Me</h1>
 <img src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.webp?cid=ecf05e4704mc26q0h40teqtgj8pqgta0dh59tn5j72ako8gt&ep=v1_gifs_search&rid=giphy.webp&ct=g" />
