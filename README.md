@@ -1,6 +1,20 @@
 # 💫 About Me:
-I'm currently working on social media platform.<br>I'm currently working on Algo Visualizer.<br>I'm learning full stack development.<br>I'm currently watching One Piece.
-
+Final-year MCA student at SCRIET, CCSU Meerut, with a strong academic background in Computer Science.
+<br>
+Skilled in Python, C++, JavaScript, ReactJS, Node.js, and database management (SQL, JsonPowerDB).
+<br>
+Built games and web apps, including a Snake Game using Python's Pygame and a Meme Maker using the Imgflip API.
+<br>
+Hackathon participant (Hack CBS 5.0), experienced in working under pressure and building quick, scalable solutions.
+<br>
+Passionate about solving real-world problems through technology and always eager to learn and adapt.
+<br>
+Strong problem-solving skills with a good grasp of data structures, algorithms, and backend development.
+<br>
+Interested in building smart, efficient, and impactful digital products.
+<br>
+Enjoys exploring new technologies, playing badminton, gaming, and playing the flute in free time.
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_14_8) 
