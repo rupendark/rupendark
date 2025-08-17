@@ -16,3 +16,4 @@ Strong problem-solving mindset with a good grasp of DSA, network architectures, 
 <br>
 Enjoys exploring new technologies, playing badminton, gaming, and playing the flute during free time.
 <br>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4983235" style='border:none;'></iframe>
