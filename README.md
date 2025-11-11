@@ -1,6 +1,6 @@
 ## 💫 About Me  
 
-🎓 Final-year **MCA student at SCRIET, CCSU Meerut**, passionate about **Cybersecurity** and **Full-Stack Development**.  
+🎓 **MCA Graduate from SCRIET, CCSU Meerut**, passionate about **Cybersecurity** and **Full-Stack Development**.  
 <br>
 
 💻 Completed **270+ TryHackMe labs (Top 1% globally)** and participated in **SOC & Threat Intelligence simulations** with **Deloitte** and **Tata**,  
