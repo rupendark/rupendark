@@ -1,18 +1,28 @@
-💫 About Me:
+## 💫 About Me  
 
-Final-year MCA student at SCRIET, CCSU Meerut with a strong background in Cybersecurity and Full-Stack Development.
+🎓 Final-year **MCA student at SCRIET, CCSU Meerut**, passionate about **Cybersecurity** and **Full-Stack Development**.  
 <br>
-Completed 100+ TryHackMe labs (Top 4% rank globally) and multiple SOC / Threat Intelligence simulations (Deloitte & Tata) focused on vulnerability assessment, log analysis & incident response.
+
+💻 Completed **270+ TryHackMe labs (Top 1% globally)** and participated in **SOC & Threat Intelligence simulations** with **Deloitte** and **Tata**,  
+focusing on **vulnerability assessment, log analysis, and incident response**.  
 <br>
-Skilled in Python, C++, JavaScript, ReactJS, Node.js, and database technologies (SQL, JsonPowerDB, MongoDB).
+
+🛡️ Skilled in **Python, C++, JavaScript, React.js, Node.js**, and database technologies like **MongoDB**, **SQL**, and **JsonPowerDB**.  
 <br>
-Built and secured web apps and games — including a Snake Game (Python Pygame) and a Meme Maker (Imgflip API) — applying secure coding and OWASP Top-10 mitigation practices.
+
+🚀 Built and secured **5+ full-stack projects**, including:  
+- 🏗️ **Avilambh** – Coal Mine Productivity & Safety System with role-based dashboards, SMS alerts, and secure API integration.  
+- 🎨 **Meme Maker** – Dynamic meme generator using the Imgflip API with real-time caption editing.  
+- 🐍 **Snake Game** – Python Pygame-based retro game featuring real-time logic and collision detection.  
 <br>
-Hackathon participant (Hack CBS 5.0, SIH 2024) experienced in delivering under pressure and building scalable, secure solutions.
+
+🏆 **Hackathon Participant** – *Hack CBS 5.0*, *Smart India Hackathon (SIH 2024)*, *Interdepartmental Hackathon 2023*.  
 <br>
-Passionate about threat intelligence, SOC operations, and solving real-world problems through technology.
+
+🔍 Hands-on with **Nmap, Burp Suite, Wireshark, ELK, and ServiceNow**, with strong knowledge of **network architectures**, **DSA**, and **OWASP Top 10 mitigations**.  
 <br>
-Strong problem-solving mindset with a good grasp of DSA, network architectures, and vulnerability scanning tools (Nmap, Burp Suite, Wireshark).
+
+🎯 Aspiring **Cybersecurity Analyst**, driven by curiosity, precision, and a problem-solving mindset — always eager to **learn, build, and secure**.  
 <br>
-Enjoys exploring new technologies, playing badminton, gaming, and playing the flute during free time.
-<br>
+
+🎮 Outside tech, I enjoy **badminton**, **gaming**, **playing the flute**, and **exploring new technologies**.  
