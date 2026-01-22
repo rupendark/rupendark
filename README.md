@@ -3,7 +3,7 @@
 🎓 **MCA Graduate from SCRIET, CCSU Meerut**, passionate about **Cybersecurity** and **Full-Stack Development**.  
 <br>
 
-💻 Completed **550+ TryHackMe labs (Top 1% globally)** and participated in **SOC & Threat Intelligence simulations** with **Deloitte** and **Tata**,  
+💻 Completed **570+ TryHackMe labs (Top 1% globally)** and participated in **SOC & Threat Intelligence simulations** with **Deloitte** and **Tata**,  
 focusing on **vulnerability assessment, log analysis, and incident response**.  
 <br>
 
