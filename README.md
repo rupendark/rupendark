@@ -25,7 +25,7 @@
 
 MCA Graduate from SCRIET, CCSU Meerut, with hands-on experience in cybersecurity operations, SIEM-based investigations, and threat detection.  
 
-Completed 570+ practical labs and participated in SOC & Threat Intelligence simulations with Deloitte and Tata, focusing on:
+practicing labs and participated in SOC & Threat Intelligence simulations with Deloitte and Tata, focusing on:
 
 - Log analysis & alert triage  
 - Vulnerability assessment  
