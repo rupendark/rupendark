@@ -13,8 +13,8 @@
 ## 🔥 TryHackMe Achievements
 
 🥇 **Global Rank:** 100 (Top 1%)  
-🏠 **Rooms Completed:** 1103 
-   🔥 **Current Streak:** 358 Days  
+🏠 **Rooms Completed:** 1103 <br>
+🔥 **Current Streak:** 358 Days  
 🎖 **Badges Earned:** 103  
 
 <!-- THM-STATS-END -->
