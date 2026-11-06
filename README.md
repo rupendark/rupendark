@@ -12,10 +12,10 @@
 <!-- THM-STATS-START -->
 ## 🔥 TryHackMe Achievements
 
-🥇 **Global Rank:** 28 (Top 1%)  
-🏠 **Rooms Completed:** 1287 <br>
-🔥 **Current Streak:** 430 Days  
-🎖 **Badges Earned:** 113 
+🥇 **Global Rank:** Top 1% Globally  
+🏠 **Rooms Completed:** 1310+ <br>
+🔥 **Current Streak:** 500+ Days  
+🎖 **Badges Earned:** 114 
 
 <!-- THM-STATS-END -->
 
